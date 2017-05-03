@@ -27,7 +27,7 @@ DEBUG = True
 
 TEMPLATE_DEBUG = True
 
-ALLOWED_HOSTS = [ 'https://django-social.herokuapp.com/', * ]
+ALLOWED_HOSTS = [*]
 
 
 # Application defin
